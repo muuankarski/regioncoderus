@@ -77,7 +77,12 @@ regions4 <- str[-1]
 
 ## Russian Federation
 
-regions5 <- "Russia"
+regions5 <- c("Russia",
+              "Chita_Oblast","Chechen–Ingush_Autonomous_Soviet_Socialist_Republic","Baikonur") # misc regions in data
+
+## ------------------------------------------------------------ ##
+
+
 
 regions <- c(regions1,regions2,regions3,regions4,regions5)
 # remove duplicated url's  (Some scemes are not exclusive)

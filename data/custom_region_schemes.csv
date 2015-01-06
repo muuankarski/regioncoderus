@@ -1,86 +1,117 @@
-region.name.russian,region.name.rosstat
-Адыгея,Республика Адыгея
-Алтайский край,Алтайский край
-Амурская область,Амурская область
-Архангельская область,Архангельская область
-Астраханская область,Астраханская область
-Башкортостан,Республика Башкортостан
-Белгородская область,Белгородская область
-Брянская область,Брянская область
-Бурятия,Республика Бурятия
-Владимирская область,Владимирская область
-Волгоградская область,Волгоградская область
-Вологодская область,Вологодская область
-Воронежская область,Воронежская область
-Дагестан,Республика Дагестан
-Еврейская автономная область,Еврейская автономная область
-Забайкальский край,Забайкальский край
-Ивановская область,Ивановская область
-Ингушетия,Республика Ингушетия
-Иркутская область,Иркутская область
-Кабардино-Балкария,Кабардино-Балкарская Республика
-Калининградская область,Калининградская область
-Калмыкия,Республика Калмыкия
-Калужская область,Калужская область
-Камчатский край,Камчатский край
-Карачаево-Черкесия,Карачаево-Черкесская Республика
-Кемеровская область,Кемеровская область
-Кировская область,Кировская область
-Костромская область,Костромская область
-Краснодарский край,Краснодарский край
-Красноярский край,Красноярский край
-Курганская область,Курганская область
-Курская область,Курская область
-Ленинградская область,Ленинградская область
-Липецкая область,Липецкая область
-Магаданская область,Магаданская область
-Марий Эл,Республика Марий Эл
-Мордовия,Республика Мордовия
-Москва,г.Москва
-Московская область,Московская область
-Мурманская область,Мурманская область
-Ненецкий автономный округ,Ненецкий авт.округ
-Нижегородская область,Нижегородская область
-Новгородская область,Новгородская область
-Новосибирская область,Новосибирская область
-Омская область,Омская область
-Оренбургская область,Оренбургская область
-Орловская область,Орловская область
-Пензенская область,Пензенская область
-Пермский край,Пермский край
-Приморский край,Приморский край
-Псковская область,Псковская область
-Республика Алтай,Республика Алтай
-Республика Карелия,Республика Карелия
-Республика Коми,Республика Коми
-Республика Крым,
-Ростовская область,Ростовская область
-Рязанская область,Рязанская область
-Самарская область,Самарская область
-Санкт-Петербург,г.Санкт-Петербург
-Саратовская область,Саратовская область
-Сахалинская область,Сахалинская область
-Свердловская область,Свердловская область
-Севастополь,
-Северная Осетия,Республика Северная Осетия-Алания
-Смоленская область,Смоленская область
-Ставропольский край,Ставропольский край
-Тамбовская область,Тамбовская область
-Татарстан,Республика Татарстан
-Тверская область,Тверская область
-Томская область,Томская область
-Тульская область,Тульская область
-Тыва,Республика Тыва
-Тюменская область,Тюменская область
-Удмуртия,Удмуртская Республика
-Ульяновская область,Ульяновская область
-Хабаровский край,Хабаровский край
-Хакасия,Республика Хакасия
-Ханты-Мансийский автономный округ — Югра,Ханты-Мансийский авт.округ-Югра
-Челябинская область,Челябинская область
-Чечня,Чеченская Республика
-Чувашия,Чувашская Республика
-Чукотский автономный округ,Чукотский авт.округ
-Якутия,Республика Саха (Якутия)
-Ямало-Ненецкий автономный округ,Ямало-Ненецкий авт.округ
-Ярославская область,Ярославская область
+"region.name.russian","ID_GADM","ID_NED","region_type","federal_district","economic_region","feddist_id","ecoreg_id"
+"Еврейская автономная область",2598,2719,"autonomous oblast","Far Eastern Federal District","Far Eastern",NA,NA
+"Чукотский автономный округ",2524,2485,"autonomous okrug","Far Eastern Federal District","Far Eastern",NA,NA
+"Ненецкий автономный округ",2560,2489,"autonomous okrug","Northwestern Federal District","Northern",NA,NA
+"Ханты-Мансийский автономный округ — Югра",2543,2541,"autonomous okrug","Ural Federal District","West Siberian",NA,NA
+"Ямало-Ненецкий автономный округ",2596,2487,"autonomous okrug","Ural Federal District","West Siberian",NA,NA
+"Дальневосточный экономический район",NA,NA,"economic region",NA,NA,NA,"er_4"
+"Западно-Сибирский экономический район",NA,NA,"economic region",NA,NA,NA,"er_13"
+"Калининградский экономический район",NA,NA,"economic region",NA,NA,NA,"er_5"
+"Поволжский экономический район",NA,NA,"economic region",NA,NA,NA,"er_11"
+"Волго-Вятский экономический район",NA,NA,"economic region",NA,NA,NA,"er_12"
+"Северо-Кавказский экономический район",NA,NA,"economic region",NA,NA,NA,"er_7"
+"Уральский экономический район",NA,NA,"economic region",NA,NA,NA,"er_10"
+"Центрально-Чернозёмный экономический район",NA,NA,"economic region",NA,NA,NA,"er_2"
+"Северный экономический район",NA,NA,"economic region",NA,NA,NA,"er_8"
+"Восточно-Сибирский экономический район",NA,NA,"economic region",NA,NA,NA,"er_3"
+"Центральный экономический район",NA,NA,"economic region",NA,NA,NA,"er_1"
+"Северо-Западный экономический район",NA,NA,"economic region",NA,NA,NA,"er_9"
+"Москва",NA,2510,"federal city","Central Federal District","Central",NA,NA
+"Севастополь",NA,6356,"federal city","Crimean Federal District",NA,NA,NA
+"Санкт-Петербург",2526,2481,"federal city","Northwestern Federal District","Northwestern",NA,NA
+"Крымский федеральный округ",NA,NA,"federal district",NA,NA,"fd_2",NA
+"Приволжский федеральный округ",NA,NA,"federal district",NA,NA,"fd_9",NA
+"Дальневосточный федеральный округ",NA,NA,"federal district",NA,NA,"fd_3",NA
+"Сибирский федеральный округ",NA,NA,"federal district",NA,NA,"fd_6",NA
+"Центральный федеральный округ",NA,NA,"federal district",NA,NA,"fd_1",NA
+"Северо-Западный федеральный округ",NA,NA,"federal district",NA,NA,"fd_5",NA
+"Северо-Кавказский федеральный округ",NA,NA,"federal district",NA,NA,"fd_4",NA
+"Уральский федеральный округ",NA,NA,"federal district",NA,NA,"fd_8",NA
+"Россия",NA,NA,"federal state",NA,NA,NA,NA
+"Камчатский край",2537,3561,"krai","Far Eastern Federal District","Far Eastern",NA,NA
+"Хабаровский край",2541,2709,"krai","Far Eastern Federal District","Far Eastern",NA,NA
+"Приморский край",2570,2689,"krai","Far Eastern Federal District","Far Eastern",NA,NA
+"Ставропольский край",2579,2502,"krai","North Caucasian Federal District","North Caucasus",NA,NA
+"Алтайский край",2513,2543,"krai","Siberian Federal District","West Siberian",NA,NA
+"Забайкальский край",2523,2727,"krai","Siberian Federal District","East Siberian",NA,NA
+"Красноярский край",2550,2722,"krai","Siberian Federal District","East Siberian",NA,NA
+"Краснодарский край",2549,2516,"krai","Southern Federal District","North Caucasus",NA,NA
+"Пермский край",2569,3284,"krai","Volga Federal District","Ural",NA,NA
+"Республика Крым",NA,867,NA,"Crimean Federal District",NA,NA,NA
+"Корякский округ",NA,NA,NA,NA,NA,NA,NA
+"Агинский Бурятский автономный округ",NA,NA,NA,NA,NA,NA,NA
+"Байконур (город)",NA,NA,NA,NA,NA,NA,NA
+"Таймырский (Долгано-Ненецкий) автономный округ",NA,NA,NA,NA,NA,NA,NA
+"Коми-Пермяцкий автономный округ",NA,NA,NA,NA,NA,NA,NA
+"Усть-Ордынский Бурятский автономный округ",NA,NA,NA,NA,NA,NA,NA
+"Чечено-Ингушская Автономная Советская Социалистическая Республика",NA,NA,NA,NA,NA,NA,NA
+"Читинская область",NA,NA,NA,NA,NA,NA,NA
+"Южный федеральный округ",NA,NA,"federal district",NA,NA,"fd_7",NA
+"Эвенкийский автономный округ",NA,NA,NA,NA,NA,NA,NA
+"Белгородская область",2518,2515,"oblast","Central Federal District","Central Black Earth",NA,NA
+"Брянская область",2519,2505,"oblast","Central Federal District","Central",NA,NA
+"Ивановская область",2532,2491,"oblast","Central Federal District","Central",NA,NA
+"Калужская область",2536,2497,"oblast","Central Federal District","Central",NA,NA
+"Костромская область",2548,2492,"oblast","Central Federal District","Central",NA,NA
+"Курская область",2552,2507,"oblast","Central Federal District","Central Black Earth",NA,NA
+"Липецкая область",2554,2508,"oblast","Central Federal District","Central Black Earth",NA,NA
+"Московская область",2558,2509,"oblast","Central Federal District","Central",NA,NA
+"Орловская область",2566,2511,"oblast","Central Federal District","Central",NA,NA
+"Рязанская область",2573,2519,"oblast","Central Federal District","Central",NA,NA
+"Смоленская область",2578,2506,"oblast","Central Federal District","Central",NA,NA
+"Тамбовская область",2581,2520,"oblast","Central Federal District","Central Black Earth",NA,NA
+"Тульская область",2585,2513,"oblast","Central Federal District","Central",NA,NA
+"Тверская область",2587,2494,"oblast","Central Federal District","Central",NA,NA
+"Владимирская область",2592,2521,"oblast","Central Federal District","Central",NA,NA
+"Воронежская область",2595,2522,"oblast","Central Federal District","Central Black Earth",NA,NA
+"Ярославская область",2597,2496,"oblast","Central Federal District","Central",NA,NA
+"Амурская область",2514,2718,"oblast","Far Eastern Federal District","Far Eastern",NA,NA
+"Магаданская область",2555,2716,"oblast","Far Eastern Federal District","Far Eastern",NA,NA
+"Сахалинская область",2575,2551,"oblast","Far Eastern Federal District","Far Eastern",NA,NA
+"Архангельская область",2515,2486,"oblast","Northwestern Federal District","Northern",NA,NA
+"Калининградская область",2534,2362,"oblast","Northwestern Federal District","Kaliningrad",NA,NA
+"Ленинградская область",2553,2482,"oblast","Northwestern Federal District","Northwestern",NA,NA
+"Мурманская область",2559,2488,"oblast","Northwestern Federal District","Northern",NA,NA
+"Новгородская область",2563,2503,"oblast","Northwestern Federal District","Northwestern",NA,NA
+"Псковская область",2571,2504,"oblast","Northwestern Federal District","Northwestern",NA,NA
+"Вологодская область",2594,2495,"oblast","Northwestern Federal District","Northern",NA,NA
+"Иркутская область",2531,2721,"oblast","Siberian Federal District","East Siberian",NA,NA
+"Кемеровская область",2540,2545,"oblast","Siberian Federal District","West Siberian",NA,NA
+"Новосибирская область",2564,2547,"oblast","Siberian Federal District","West Siberian",NA,NA
+"Омская область",2565,2542,"oblast","Siberian Federal District","West Siberian",NA,NA
+"Томская область",2584,2540,"oblast","Siberian Federal District","West Siberian",NA,NA
+"Астраханская область",2516,2221,"oblast","Southern Federal District","Volga",NA,NA
+"Ростовская область",2572,2512,"oblast","Southern Federal District","North Caucasus",NA,NA
+"Волгоградская область",2593,2514,"oblast","Southern Federal District","Volga",NA,NA
+"Челябинская область",2522,2535,"oblast","Ural Federal District","Ural",NA,NA
+"Курганская область",2551,2536,"oblast","Ural Federal District","Ural",NA,NA
+"Свердловская область",2580,2537,"oblast","Ural Federal District","Ural",NA,NA
+"Тюменская область",2588,2539,"oblast","Ural Federal District","West Siberian",NA,NA
+"Кировская область",2544,2525,"oblast","Volga Federal District","Volga-Vyatka",NA,NA
+"Нижегородская область",2561,2493,"oblast","Volga Federal District","Volga-Vyatka",NA,NA
+"Оренбургская область",2567,2538,"oblast","Volga Federal District","Ural",NA,NA
+"Пензенская область",2568,2518,"oblast","Volga Federal District","Volga",NA,NA
+"Самарская область",2576,2530,"oblast","Volga Federal District","Volga",NA,NA
+"Саратовская область",2577,2531,"oblast","Volga Federal District","Volga",NA,NA
+"Ульяновская область",2590,2533,"oblast","Volga Federal District","Volga",NA,NA
+"Якутия",2574,2717,"republic","Far Eastern Federal District","Far Eastern",NA,NA
+"Чечня",2521,2534,"republic","North Caucasian Federal District","North Caucasus",NA,NA
+"Дагестан",2527,2185,"republic","North Caucasian Federal District","North Caucasus",NA,NA
+"Ингушетия",2530,2490,"republic","North Caucasian Federal District","North Caucasus",NA,NA
+"Кабардино-Балкария",2533,2500,"republic","North Caucasian Federal District","North Caucasus",NA,NA
+"Карачаево-Черкесия",2538,2499,"republic","North Caucasian Federal District","North Caucasus",NA,NA
+"Северная Осетия",2562,2501,"republic","North Caucasian Federal District","North Caucasus",NA,NA
+"Республика Карелия",2539,2484,"republic","Northwestern Federal District","Northern",NA,NA
+"Республика Коми",2545,2524,"republic","Northwestern Federal District","Northern",NA,NA
+"Бурятия",2520,2724,"republic","Siberian Federal District","East Siberian",NA,NA
+"Республика Алтай",2529,2544,"republic","Siberian Federal District","West Siberian",NA,NA
+"Хакасия",2542,2546,"republic","Siberian Federal District","East Siberian",NA,NA
+"Тыва",2586,2723,"republic","Siberian Federal District","East Siberian",NA,NA
+"Адыгея",2511,2498,"republic","Southern Federal District","North Caucasus",NA,NA
+"Калмыкия",2535,2529,"republic","Southern Federal District","Volga",NA,NA
+"Башкортостан",2517,2523,"republic","Volga Federal District","Ural",NA,NA
+"Чувашия",2525,2528,"republic","Volga Federal District","Volga-Vyatka",NA,NA
+"Марий Эл",2556,2526,"republic","Volga Federal District","Volga-Vyatka",NA,NA
+"Мордовия",2557,2517,"republic","Volga Federal District","Volga-Vyatka",NA,NA
+"Татарстан",2582,2532,"republic","Volga Federal District","Volga",NA,NA
+"Удмуртия",2589,2527,"republic","Volga Federal District","Ural",NA,NA
