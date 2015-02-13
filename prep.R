@@ -2,6 +2,8 @@ library(devtools)
 document()
 
 regioncoderus_data = read.csv('data/regioncoderus_data.csv', stringsAsFactors=FALSE, na.strings='')
+regioncoderus_data$region.name.english[regioncoderus_data$region.name.english ==  "North Ossetia–Alania"] <- "North Ossetia-Alania"
+
 #names(regioncoderus_data)[names(regioncoderus_data)=="region.name.english"] <- "region.name"
 #countrycode_data$regex = iconv(countrycode_data$regex, to='UTF-8')
 
