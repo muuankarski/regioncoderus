@@ -5,9 +5,9 @@ License: GPL-3
 LazyData: yes
 LazyLoad: yes
 URL: https://github.com/muuankarski/regioncoderus
-Title: Language conversions for Russian region names
-Version: 0.1
-Date: 2015-01-02
+Title: Language conversions for Russian region names and support files for spatial analysis
+Version: 0.1.1
+Date: 2015-02-17
 Author: Markus Kainu
 Maintainer: Markus Kainu <markuskainu@gmail.com>
-Description: Language conversions for various administrative regional schemes such as economic districts, federal districs and federal subjects from Russian into several languages and coding schemes 
+Description: Language conversions for various administrative regional schemes such as economic districts, federal districs and federal subjects from Russian into several languages and coding schemes. Support files for spatial analysis
